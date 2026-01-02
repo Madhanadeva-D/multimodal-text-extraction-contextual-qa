@@ -1,4 +1,4 @@
-# Text-Extraction-AI
+# Multimodal Text Extraction and Contextual QA System
 
 ## Overview
 The document processing system extracts and structures text from URLs, images (JPG/PNG), and PDF documents, converting content into searchable vector embeddings stored in Milvus database. A FastAPI backend enables text-based querying while generating responses with source citations using transformer-based language models. The complete document analysis pipeline includes a Streamlit web interface for uploading files and submitting queries.
@@ -45,8 +45,7 @@ Streamlit offers:
 | Frontend         | Streamlit               |
 
 ## System Architecture
-```
-Text-Extraction-AI/
+Multimodal Text Extraction and Contextual QA System/
 ├── backend/                   # FastAPI backend application
 │   ├── app.py                 # Main FastAPI application and routes
 │   ├── config.py              # Configuration and environment variables
