@@ -45,7 +45,7 @@ Streamlit offers:
 | Frontend         | Streamlit               |
 
 ## System Architecture
-Multimodal Text Extraction and Contextual QA System/
+```Multimodal Text Extraction and Contextual QA System/
 ├── backend/                   # FastAPI backend application
 │   ├── app.py                 # Main FastAPI application and routes
 │   ├── config.py              # Configuration and environment variables
